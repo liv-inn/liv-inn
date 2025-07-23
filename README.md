@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mediary!](https://github.com/liv-inn/mediary)
 
-- 🌱 I’m currently learning **Tailwind CSS, React, RESTful APIs and Spring Boot!**
+- 🌱 I’m currently learning **C# and .NET!**
 
 - 📫 How to reach me **https://www.linkedin.com/in/livia-a-neves/**
 
