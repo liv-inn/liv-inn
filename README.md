@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.NET and React!**
 
-- 📫 How to reach me **https://www.linkedin.com/in/livia-a-neves/**
+- 📫 How to reach me: **[Linkedin]**(https://www.linkedin.com/in/livia-a-neves/)
 
 - ⚡ Fun fact **I'm always looking for new challenges to push my boundaries and grow as a developer. 🚀**
 
