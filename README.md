@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lívia!</h1>
 <h3 align="center">I'm passionate about technology and constantly improving my skills.</h3>
 
-- 🔭 I’m currently working on [Mediary!](https://github.com/liv-inn/mediary)
+- 🔭 I’m currently working on [GreenThumb!](https://github.com/liv-inn/PlantProject)
 
-- 🌱 I’m currently learning **C# and .NET!**
+- 🌱 I’m currently learning **.NET and React!**
 
 - 📫 How to reach me **https://www.linkedin.com/in/livia-a-neves/**
 
