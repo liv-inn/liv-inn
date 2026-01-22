@@ -1,30 +1,64 @@
-<h1 align="center">Hi 👋, I'm Lívia!</h1>
-<h3 align="center">A curious developer passionate about building creative and meaningful experiences ✨</h3>
+# 🌸 Hi, I’m Lívia Neves!
+
+💻 Front-end Developer in training | 🎨 UI & User Experience  
+Passionate about building **modern web interfaces**, **intuitive user experiences**, and turning ideas into functional digital products.
 
 ---
 
-### 👩‍💻 About me
-- 🔭 I’m currently working on **[Hitch](https://github.com/liv-inn/hitch-deploy)** — an AI-powered love advisor 💘🤖  
-- 🌱 I’m currently studying **React** and **Java** to level up my full-stack skills 🚀  
-- 💡 I love solving problems, learning new technologies and building projects.
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/livia-a-neves/)**  
-- ⚡ **Fun fact:** I’m always taking on new challenges to push my boundaries and grow as a developer 🌱💪  
+## 💫 About me
+
+- 🎓 Student of **Internet Systems** (FATEC Rubens Lara)
+- 💼 Hands-on experience as a **Front-end Development Intern**
+- 🧩 Focused on building **responsive interfaces** with strong UX principles
+- 🎨 Interested in **UI/UX, accessibility, and web performance**
+- 🚀 Seeking opportunities as a **Front-end Developer Intern or Junior**
 
 ---
 
-### 🛠️ Languages and Tools
+## ⚙️ Technologies & Tools
 
-<p align="left">
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-Spring%20Boot-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+</div>
+
+---
+
+## 🖼️ Featured Projects
+
+🎮 **[LIV XP – Web Portfolio](https://liv-xp-portfolio.vercel.app)**  
+> Single Page Application inspired by the Windows XP interface.  
+> Built with **React.js** and **Tailwind CSS**, focusing on UX and performance.
+
+💬 **[Hitch AI – Web Chat Application](https://hitch-conselheiro-amoroso.vercel.app)**  
+> Front-end of an AI-powered chat application focused on engagement and user experience.  
+> Developed with **React.js**, **Tailwind CSS**, and **REST API integration (Spring Boot)**.
+
+🏥 **[Blue Zone Clinic – Website Redesign](https://fehmell.github.io/BlueZone-Clinic/)**  
+> Complete UX/UI redesign focused on clarity, accessibility, and credibility.  
+> Built with **React.js**, **Tailwind CSS**, and **REST API consumption**.
+
+---
+
+## ✨ Let’s connect
+
+📫 **Email:** livianeves.dev@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/livia-a-neves  
+🐙 **GitHub:** https://github.com/liv-inn  
+🌐 **Portfolio:** https://liv-xp-portfolio.vercel.app  
+
+---
+
+⭐ *“I turn interfaces into clear, functional, and accessible experiences.”*
