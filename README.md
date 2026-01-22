@@ -1,4 +1,4 @@
-# 🌸 Hi, I’m Lívia Neves!
+# 🌸 Hi, I’m Lív!
 
 💻 Front-end Developer in training | 🎨 UI & User Experience  
 Passionate about building **modern web interfaces**, **intuitive user experiences**, and turning ideas into functional digital products.
